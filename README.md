@@ -35,7 +35,7 @@ Contains positive and negative tests used to verify database constraints and int
 
 ### Diagrams
 
-The `diagrams` folder contains the revised E-R diagram for Project Milestone 2.
+The revised E-R diagram for Project Milestone 2 is included in the repository.
 
 ## Functional Requirements
 
