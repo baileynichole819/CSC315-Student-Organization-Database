@@ -1,6 +1,6 @@
 # Student Organization Management System
 
-This project is a MySQL database created for CSC 382. The purpose of the database is to help manage information for a student organization, including members, events, attendance, dues payments, service opportunities, service hours, and officer positions.
+This project is a MySQL database created for CSC 315. The purpose of the database is to help manage information for a student organization, including members, events, attendance, dues payments, service opportunities, service hours, and officer positions.
 
 ## Database
 
